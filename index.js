@@ -1,6 +1,10 @@
-// Export two parts of graphql schema
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
-const typeDefs = require('./typeDefs');
-const resolvers = require('./resolvers');
-
-module.exports = { typeDefs, resolvers };
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
