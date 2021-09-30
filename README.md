@@ -17,7 +17,7 @@
 1. Node.js<br>
 2. Javascrip<br>
 3. Open Weather API<br>
-4. YELP fusion API<br>
+4. Weather stack API<br>
 5. Visual Studio Code<br>
 6. Notepad++<br>
 
