@@ -4,10 +4,11 @@
 <br>
 
 <b>Overview</b><br>
-*This coursework allow user to log in or sign up using usernamee and password*.<br>
-*User able to search for any country and displays weather forecast for four days*.<br>
-*User can add country they wish to visit in itenenary*<br>
-*Able o view restaurant to eat and places to visit in particular country*<br>
+*The weather app developed using react able to search for any city or country*.<br>
+*Displays time, temperature, humidity, wind speed and precipitation using open weather api*.<br>
+*Displays moonset and moonise using weather stack api*<br>
+*User can change name and password and save current detail in database*<br>
+*User can add, delete and search for weather history through data persistence*<b>
 
 <b>Frontend technologies</b><br>
 1. React app<br>
