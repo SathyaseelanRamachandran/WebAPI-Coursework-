@@ -6,7 +6,7 @@
 <b>Overview</b><br>
 *The weather app developed using react able to search for any city or country*.<br>
 *Displays time, temperature, humidity, wind speed and precipitation using open weather api*.<br>
-*Displays moonset and moonise using weather stack api*<br>
+*Displays moonset and moonrise using weather stack api*<br>
 *User can change name and password and save current detail in database*<br>
 *User can add, delete and search for weather history through data persistence*<b>
 
