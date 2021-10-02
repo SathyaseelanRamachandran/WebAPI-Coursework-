@@ -26,9 +26,9 @@
 A) Clone the git using git bash or cmd<br>
 B) npm init <br>
 C) npm install axios, npm install mongoose<br>
-D) or run localy localhost
-E) npm start
-F) localhost:3300
+D) or run localy localhost<br>
+E) npm start<br>
+F) localhost:3300<br>
 
 
 
