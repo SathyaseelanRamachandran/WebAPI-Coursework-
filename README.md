@@ -22,7 +22,10 @@
 5. Visual Studio Code<br>
 6. Notepad++<br>
 
-<b>How to run</b><br>
+<b>Live Web link</b><br>
+http://sathyaramweather-app.herokuapp.com/
+
+<b>How to run</b><br> 
 A) Clone the git using git bash or cmd<br>
 B) npm init <br>
 C) npm install axios, npm install mongoose<br>
