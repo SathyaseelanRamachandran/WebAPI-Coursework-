@@ -1,6 +1,6 @@
 # WebAPI-Coursework-
 
-<b>INTI International College Penang</b>
+<b><h1>INTI International College Penang</b></h1>
 <br>
 
 <b>Overview</b><br>
