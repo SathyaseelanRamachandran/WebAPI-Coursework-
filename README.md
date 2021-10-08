@@ -8,7 +8,7 @@
 *Displays time, temperature, humidity, wind speed and precipitation using open weather api*.<br>
 *Displays moonset and moonrise using weather stack api*<br>
 *User can change name and password and save current detail in database*<br>
-*User can add, delete and search for weather history through data persistence*</b>
+*User can add and delete weather status,update username and search for weather history through data persistence*</b>
 
 <b><h3>Frontend technologies</b><br></h3>
 1. React app<br>
