@@ -16,9 +16,9 @@
 
 <b><h3>Backend technologies</b><br></h3>
 1. Node.js<br>
-2. Javascrip<br>
-3. Open Weather API<br>
-4. Weather stack API<br>
+2. Javascript<br>
+3. Open Weather Map API<br>
+4. Weather Stack API<br>
 5. Visual Studio Code<br>
 6. Notepad++<br>
 
