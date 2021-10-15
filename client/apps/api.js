@@ -21,7 +21,8 @@ const a = document.getElementById("current-day-title");
 const b = document.getElementById("current-day-title");
 
 export let sendToSave = {};
-const accessKey = "86ceed49db6ce4d2a0d1e0e533ee309d";
+//const accessKey = "86ceed49db6ce4d2a0d1e0e533ee309d";
+const accessKey = "2adce6b47b3c2f1544c347bbea60a6d2";
 
 async function fetchData() {
 	let currentLocationCity = searchInputCity.value;
@@ -126,7 +127,9 @@ async function fetchData() {
 	 * https://api.openweathermap.org/data/2.5/forecast?q={city name}&appid={API key}
 	 */
 
-	let openWeatherKey = "5e7a5d73484093b9845d1a913b7ba854";
+	//let openWeatherKey = "5e7a5d73484093b9845d1a913b7ba854";
+	let openWeatherKey = "cdce5f357bc8b55e1f894ef2b7a46afe";
+	
 	
 	const forecastBaseUrlOW = `https://api.openweathermap.org/data/2.5/forecast?q=${currentLocationCity}&units=metric&appid=${openWeatherKey}`;
 
