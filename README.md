@@ -22,6 +22,10 @@
 5. Visual Studio Code<br>
 6. Notepad++<br>
 
+
+<b><h3>Heroku URL</b></br></h3>
+http://sathya-app.herokuapp.com/
+
 <b><h3>How to run</b><br></h3>
 A) Clone the git using git bash or cmd<br>
 B) npm init <br>
