@@ -128,7 +128,8 @@ async function fetchData() {
 	 */
 
 	
-	let openWeatherKey = "cdce5f357bc8b55e1f894ef2b7a46afe";
+
+	let openWeatherKey = "5e7a5d73484093b9845d1a913b7ba854";
 	
 	
 	const forecastBaseUrlOW = `https://api.openweathermap.org/data/2.5/forecast?q=${currentLocationCity}&units=metric&appid=${openWeatherKey}`;
