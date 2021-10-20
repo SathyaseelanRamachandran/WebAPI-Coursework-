@@ -27,7 +27,7 @@
 http://sathya-app.herokuapp.com/
 
 <b><h3>How to run locally</b><br></h3>
-A) Clone the git using git bash or cmd<br>
+A) Clone the git repository using git bash or cmd<br>
 B) npm init <br>
 C) npm install axios, npm install mongoose, npm install express<br>
 D) or run localy localhost<br>
