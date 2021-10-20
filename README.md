@@ -26,7 +26,7 @@
 <b><h3>Heroku URL</b></br></h3>
 http://sathya-app.herokuapp.com/
 
-<b><h3>How to run</b><br></h3>
+<b><h3>How to run locally</b><br></h3>
 A) Clone the git using git bash or cmd<br>
 B) npm init <br>
 C) npm install axios, npm install mongoose<br>
