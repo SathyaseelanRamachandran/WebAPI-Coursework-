@@ -11,8 +11,8 @@
 *User can add and delete weather status,update username and search for weather history through data persistence*</b>
 
 <b><h3>Frontend technologies</b><br></h3>
-1. React app<br>
-2. CSS,HTML<br>
+1. Javascipt for interactive elements<br>
+2. CSS,HTML for layouts<br>
 
 <b><h3>Backend technologies</b><br></h3>
 1. Node.js<br>
