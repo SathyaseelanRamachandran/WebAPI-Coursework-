@@ -26,7 +26,7 @@
 <b><h3>Heroku URL</b></br></h3>
 <h4>Current login details</h4>
 Username: sathya<br>
-Password; sairam5779<br>
+Password: sairam5779<br>
 http://sathya-app.herokuapp.com/
 
 <b><h3>How to run locally</b><br></h3>
