@@ -24,7 +24,7 @@
 
 
 <b><h3>Heroku URL</b></br></h3>
-<h4>Current log details</h4></br>
+<h4>Current log details</h4>
 Username: sathya<br>
 Password; sairam5779<br>
 http://sathya-app.herokuapp.com/
