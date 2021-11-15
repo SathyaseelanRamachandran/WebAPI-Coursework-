@@ -1,6 +1,6 @@
 # WebAPI-Coursework-
 
-<b><h1>INTI International College Penang</b></h1>
+<b><h1>INTI International College Penang</b>(IICP)</h1>
 <br>
 
 <b><h3>Overview</b><br></h3>
